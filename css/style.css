@@ -48,3 +48,8 @@ img {
 .header__nav__logo {
     width: 8rem;
 }
+
+.figure {
+    padding: 2.3rem;
+    padding-top: 1.4rem;
+}
