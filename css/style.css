@@ -9,3 +9,17 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/*Root Settings*/
+
+:root {
+    /* Primary */
+
+    --violet: hsl(257, 40%, 49%);
+    --soft-magenta: hsl(300, 69%, 71%);
+
+    /*Font Weight*/
+
+    --light: 400;
+    --bold: 600;
+}
