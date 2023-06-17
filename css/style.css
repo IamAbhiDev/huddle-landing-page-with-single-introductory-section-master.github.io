@@ -23,3 +23,13 @@
     --light: 400;
     --bold: 600;
 }
+
+/*Basic Styles*/
+
+body {
+    background: url(../images/bg-mobile.svg);
+    background-repeat: no-repeat;
+    background-color: var(--violet);
+    min-height: 100vh;
+    font-family: 'Poppins', sans-serif;
+}
